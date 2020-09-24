@@ -200,6 +200,7 @@ windows-faq.de##.theiaStickySidebar > #custom_html-4
 prosiebengames.de##.off-canvas-content > div.background[data-url-link]
 finanzen.net##.ad-hint
 finanzen.net###fragSharesHotStocks > img[src^="data:image"]
+www.finanzen.net##div.table-quotes.box > * .bgMediumYellow
 halle365.de###skyscraper
 halle365.de##p > a[href^="https://www.eventim.de/"] > img
 halle365.de##a[href="http://www.euroakademie.de/halle"]
